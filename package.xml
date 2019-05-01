@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>40.0</version>
+    <version>45.0</version>
     <types>
         <members>BotController</members>
         <members>BotField</members>
@@ -599,6 +599,8 @@
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
         <members>Macro.StartingContext</members>
+        <members>May_Demo_Object__c.Prop_Rent__c</members>
+        <members>May_Demo_Object__c.Prop_Start_Date__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
         <members>Opportunity.CampaignId</members>
@@ -844,6 +846,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>May_Demo_Object__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -891,6 +894,7 @@
         <members>Heat_Map</members>
         <members>Heat_Map_Mock</members>
         <members>House_Explorer</members>
+        <members>May_Demo_Object__c</members>
         <members>Property_Explorer1</members>
         <members>Property__c</members>
         <members>Sample_Data_Import</members>
@@ -991,6 +995,7 @@
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>May_Demo_Object__c-May Demo Object Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -1054,6 +1059,7 @@
         <members>Lead.TodaysLeads</members>
         <members>Lead.ViewCustom1</members>
         <members>Lead.ViewCustom2</members>
+        <members>May_Demo_Object__c.All</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
         <members>Opportunity.ClosingThisMonth</members>
@@ -1106,6 +1112,7 @@
         <members>HighVolumePortal</members>
         <members>Identity User</members>
         <members>MarketingProfile</members>
+        <members>Molex</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
         <members>Partner Community User</members>
@@ -1286,6 +1293,10 @@
         <members>leaflet1</members>
         <members>nouislider</members>
         <name>StaticResource</name>
+    </types>
+    <types>
+        <members>May_Demo_Object__c.Rule_1</members>
+        <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>
