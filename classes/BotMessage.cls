@@ -1,5 +1,5 @@
 public virtual class BotMessage {
-
+//New Class Change - Mar 27
     @AuraEnabled public String author { get;set; }
     @AuraEnabled public String messageText { get;set; }
     @AuraEnabled public List<BotRecord> records { get;set; }
@@ -9,7 +9,7 @@ public virtual class BotMessage {
 
     public BotMessage() {
     }
-
+//Another Line Change
     public BotMessage(String author, String messageText) {
         this.author = author;
         this.messageText = messageText;
