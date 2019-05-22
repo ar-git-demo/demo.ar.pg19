@@ -83,8 +83,8 @@
     <validationRules>
         <fullName>Rule_1</fullName>
         <active>true</active>
-        <errorConditionFormula>$Profile.Name = &quot;Marketing Profile&quot;</errorConditionFormula>
-        <errorMessage>Error</errorMessage>
+        <errorConditionFormula>$Profile.Name = &quot;Admin&quot;</errorConditionFormula>
+        <errorMessage>Error Msg</errorMessage>
     </validationRules>
     <visibility>Public</visibility>
 </CustomObject>

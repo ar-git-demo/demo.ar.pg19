@@ -38,6 +38,9 @@
     <layoutAssignments>
         <layout>demo_object_mar27__c-demo_object_mar27 Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>May_Demo_Object__c-May Demo Object Layout</layout>
+    </layoutAssignments>
     <tabVisibilities>
         <tab>May_Demo_Object__c</tab>
         <visibility>DefaultOn</visibility>
